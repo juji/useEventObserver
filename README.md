@@ -1,6 +1,6 @@
 # useEventObserver
 
-image creating `Something` by using the prefix `use`
+imagine creating `Something` by using the prefix `use`
 
 ```js
 import useEventObserver from 'use-event-observer'
