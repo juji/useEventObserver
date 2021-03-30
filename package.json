@@ -1,6 +1,6 @@
 {
-  "name": "useEventObserver",
-  "version": "0",
+  "name": "use-event-observer",
+  "version": "1.0.0",
   "description": "imagine creating Something with the prefix 'use'",
   "main": "index.js",
   "repository": "git@github.com:juji/useEventObserver.git",
