@@ -9,6 +9,14 @@ function(){
 
   const Event = useEventObserver()
 
-  
+
 }
 ```
+
+[Source](https://github.com/juji/useEventObserver/blob/master/index.js)
+
+Sorry, so lazy right now..
+
+cheers,
+
+Juji
